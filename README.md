@@ -1,6 +1,11 @@
 # CNN-JEPA Demonstration
 
 This project provides an interactive demonstration of CNN-JEPA (Convolutional Neural Network Joint-Embedding Predictive Architecture), a PhD-level Artificial Machine Intelligence (AMI) that showcases how CNN-JEPA works for learning visual representations from image data.
+![CNN-JEPA TechDetails](https://github.com/user-attachments/assets/34722609-63e2-4751-a478-37ce34bb9d60)
+![CNN-JEPA SyntheticImageGen](https://github.com/user-attachments/assets/8659a082-6c73-4f29-9be4-adcd77878c2e)
+![CNN-JEPA SampleImage](https://github.com/user-attachments/assets/2bdedc5e-c8c1-445a-9c43-64662e5e5ed7)
+![CNN-JEPA SampleImage III](https://github.com/user-attachments/assets/ef7ce2ad-f3df-4635-ae17-dabed77e873b)
+![CNN-JEPA SampleImage II](https://github.com/user-attachments/assets/0ea4b70b-7d56-4e9a-9eb0-5cf783191821)
 
 ## Overview
 
